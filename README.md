@@ -1,5 +1,7 @@
 # AstraKart – E-Commerce Web Application
 
+<img width="1366" height="643" alt="ss1" src="https://github.com/user-attachments/assets/37cadc88-da31-4ed2-93df-969a14d02e46" />
+
 AstraKart is a simple yet powerful e-commerce web application built using **PHP and MySQL**.  
 It allows customers to browse products, place orders, and manage their order history.  
 The project is designed for learning full-stack development and implementing core e-commerce features.
